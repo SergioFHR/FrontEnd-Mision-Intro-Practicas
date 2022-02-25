@@ -1,7 +1,7 @@
 # FrontEnd-Mision-Intro-Practicas
 Practicas de Intro a Frontend
 
-1.- Lo realice con una plantilla en Word
+1.- Lo realice en formato .Doc de forma local
 
 2.- El Buyer Persona lo hice en la pagina https://www.hubspot.es/make-my-persona
 
